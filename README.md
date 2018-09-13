@@ -4,4 +4,4 @@
 
 ### Fortnite is awesome
 
-Hello my name is Thomas Reid
+Hello my name is **Thomas Reid**
